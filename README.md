@@ -18,6 +18,6 @@ For more on adopting a code of conduct, see [Ashe Dryden's FAQ](http://ashedryde
 
 ## Credits
 
-Based on the [Contributor Covenant](https://github.com/CoralineAda/contributor_covenant) by [Coraline Ada Ehmke](https://github.com/CoralineAda/contributor_covenant).
+Based on the [Contributor Covenant](https://github.com/CoralineAda/contributor_covenant) by [Coraline Ada Ehmke](https://github.com/CoralineAda).
 
 If you have suggestions to improve this code of conduct, please submit an issue or PR.
